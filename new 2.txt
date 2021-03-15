@@ -13,10 +13,17 @@ Khairul
 
 
 
-
+Bootstrap
 https://getbootstrap.com/
 
+Wave
+https://getwaves.io/
+
+Apps Script
+https://script.google.com/u/0/home/projects/1IbAmedm481WIR8hpGLC51DOaYGg9XLXTU9V99lDCGVpGd8577SAMwwyl/triggers
 
 
+google sheets
+https://docs.google.com/spreadsheets/d/142sTOzlkCCUS9SmV7l20wU4W8pRo_JXmgLQ7pIwJxj4/edit#gid=0
 
 
